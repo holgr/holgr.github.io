@@ -8,7 +8,7 @@ guid: 'https://holgr.com/?p=5473'
 permalink: /blog/apple-watch-after-five-years/
 ---
 
-Five years ago – on April 24, 2015 – Apple released its first smartwatch: Apple Watch. After presenting it in September 2014, during the reveal of iPhone 6, Apple started taking pre-orders on April 10, 2015; two weeks ahead of shipping them. Due to international travel, jetlag and, well, sleep on that very day I wasn't able to get an early model back then and had to wait a couple of weeks until I finally got my hands on mine. 
+Five years ago – on April 24, 2015 – Apple released its first smartwatch: Apple Watch. After presenting it in September 2014, during the reveal of iPhone 6, Apple started taking pre-orders on April 10, 2015; two weeks ahead of shipping them. Due to international travel, jetlag and, well, sleep on that very day I wasn't able to get an early model back then and had to wait a couple of weeks until I finally got my hands on mine.
 <!--more-->
 Just like [David Smith](http://twitter.com/_DavidSmith) I was wondering [how long I've been wearing my Apple Watch](https://david-smith.org/blog/2020/04/25/apple-watch-4-dot-4-years-on-my-wrist/) since then. Unfortunately I lost some of my health data while moving iPhones in September 2015. So the early days of wearing my Apple Watch models over the years have been lost forever. Thankfully David made the [source code for his app](https://github.com/UnderscoreDavidSmith/OnTheWrist) that uses HealthKit information stored on your iPhone available publicly. You'll need Xcode and a developer account to run it on your iPhone.
 

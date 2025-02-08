@@ -16,7 +16,8 @@ It's been quite some time, but I thought it'd be nice to add some info here with
 <!--more-->
 I wouldn't be surprised if there'll be a poll in a few hours asking people if Twitter's dumb rule of the day should be revoked. And then 24 hours later it'll be scrapped and/or people will be let back in.
 
-That's his modus operandi nowadays: 
+That's his modus operandi nowadays:
+
 - Let someone publish a new idiotic rule and immediately ban some famous people
 - Wait a bit for people to get upset and talk about him and his stupid rule
 - Come up [with a poll](https://twitter.com/elonmusk/status/1603600001057185792)
