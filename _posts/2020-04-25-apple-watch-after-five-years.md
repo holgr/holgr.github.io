@@ -1,6 +1,6 @@
 ---
 id: 5473
-title: 'Apple Watch after five years: How long I&#8217;ve been wearing it every day'
+title: "Apple Watch after five years: How long I've been wearing it every day"
 date: '2020-04-25T05:43:17-07:00'
 author: 'Holger Eilhard'
 layout: post
