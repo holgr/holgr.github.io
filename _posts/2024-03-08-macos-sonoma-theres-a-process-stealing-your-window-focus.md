@@ -6,6 +6,7 @@ author: 'Holger Eilhard'
 layout: post
 guid: 'https://holgr.com/?p=5798'
 permalink: /blog/macos-sonoma-theres-a-process-stealing-your-window-focus/
+tag: blog
 ---
 
 Sean Harding finally put [into words](https://www.threads.net/@seanharding/post/C4RT42-rqD3) an issue that I've witnessed for a while now on macOS Sonoma.
