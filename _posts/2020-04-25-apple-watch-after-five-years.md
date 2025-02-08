@@ -5,18 +5,14 @@ date: '2020-04-25T05:43:17-07:00'
 author: 'Holger Eilhard'
 layout: post
 guid: 'https://holgr.com/?p=5473'
-permalink: /apple-watch-after-five-years/
-activitypub_status:
-    - federate
-categories:
-    - Blog
+permalink: /blog/apple-watch-after-five-years/
 ---
 
 Five years ago – on April 24, 2015 – Apple released its first smartwatch: Apple Watch. After presenting it in September 2014, during the reveal of iPhone 6, Apple started taking pre-orders on April 10, 2015; two weeks ahead of shipping them. Due to international travel, jetlag and, well, sleep on that very day I wasn't able to get an early model back then and had to wait a couple of weeks until I finally got my hands on mine. 
 <!--more-->
 Just like [David Smith](http://twitter.com/_DavidSmith) I was wondering [how long I've been wearing my Apple Watch](https://david-smith.org/blog/2020/04/25/apple-watch-4-dot-4-years-on-my-wrist/) since then. Unfortunately I lost some of my health data while moving iPhones in September 2015. So the early days of wearing my Apple Watch models over the years have been lost forever. Thankfully David made the [source code for his app](https://github.com/UnderscoreDavidSmith/OnTheWrist) that uses HealthKit information stored on your iPhone available publicly. You'll need Xcode and a developer account to run it on your iPhone.
 
-<!-- <a href="https://holgr.com/wp-content/uploads/2020/04/Wearing-Apple-Watch.png"><img src="https://holgr.com/wp-content/uploads/2020/04/Wearing-Apple-Watch-1024x411.png" alt="Diagram showing how much I&#039;ve worn Apple Watch over the past years" width="800" class="aligncenter size-large wp-image-5474" /></a> -->
+![Diagram showing how much I've worn Apple Watch over the past years]({{ site.baseurl }}images/Wearing-Apple-Watch.png)
 
 As I mentioned above, I don't have the full five years of data available to me. This means my dataset starts on September 26th, 2015. As you can see, for the first few months I've been charging my Watch during the night, before starting to track my sleep in January 2017 using various apps over the years. For the past year, [Sleep Watch](https://apps.apple.com/app/sleep-watch-by-bodymatter/id1138066420) has been taking care of this and I usually don't have to do anything to start or end tracking. (I'm not sure how I lost some more information during July 2017, but apparently it's gone; roughly 20 days are missing.)
 
