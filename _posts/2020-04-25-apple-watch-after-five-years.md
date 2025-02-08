@@ -12,7 +12,7 @@ Five years ago – on April 24, 2015 – Apple released its first smartwatch: Ap
 <!--more-->
 Just like [David Smith](http://twitter.com/_DavidSmith) I was wondering [how long I've been wearing my Apple Watch](https://david-smith.org/blog/2020/04/25/apple-watch-4-dot-4-years-on-my-wrist/) since then. Unfortunately I lost some of my health data while moving iPhones in September 2015. So the early days of wearing my Apple Watch models over the years have been lost forever. Thankfully David made the [source code for his app](https://github.com/UnderscoreDavidSmith/OnTheWrist) that uses HealthKit information stored on your iPhone available publicly. You'll need Xcode and a developer account to run it on your iPhone.
 
-![Diagram showing how much I've worn Apple Watch over the past years]({{ site.baseurl }}images/Wearing-Apple-Watch.png)
+![Diagram showing how much I've worn Apple Watch over the past years](/images/Wearing-Apple-Watch.png)
 
 As I mentioned above, I don't have the full five years of data available to me. This means my dataset starts on September 26th, 2015. As you can see, for the first few months I've been charging my Watch during the night, before starting to track my sleep in January 2017 using various apps over the years. For the past year, [Sleep Watch](https://apps.apple.com/app/sleep-watch-by-bodymatter/id1138066420) has been taking care of this and I usually don't have to do anything to start or end tracking. (I'm not sure how I lost some more information during July 2017, but apparently it's gone; roughly 20 days are missing.)
 
