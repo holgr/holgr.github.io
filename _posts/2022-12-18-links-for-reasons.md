@@ -8,12 +8,12 @@ guid: 'https://holgr.com/?p=5735'
 permalink: /blog/links-for-reasons/
 ---
 
-It's been quite some time, but I thought it'd be nice to add some info here with other places where you can find me. Especially since you're now – on some sites – [no longer allowed](https://help.twitter.com/en/rules-and-policies/social-platforms-policy) to link to your other accounts. It's really only a handful<!--more-->:
+It's been quite some time, but I thought it'd be nice to add some info here with other places where you can find me. Especially since you're now – on some sites – [no longer allowed](https://help.twitter.com/en/rules-and-policies/social-platforms-policy) to link to your other accounts. It's really only a handful:
 
 - Mastodon: [mastodon.social/@holgr](https://mastodon.social/@holgr)
 - SupportDiffs on Mastodon: [mastodon.online/@supportdiffs](https://mastodon.online/@supportdiffs)
 - GitHub: [holgr](https://github.com/holgr)
-
+<!--more-->
 I wouldn't be surprised if there'll be a poll in a few hours asking people if Twitter's dumb rule of the day should be revoked. And then 24 hours later it'll be scrapped and/or people will be let back in.
 
 That's his modus operandi nowadays: 
