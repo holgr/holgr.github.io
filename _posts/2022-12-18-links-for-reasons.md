@@ -6,6 +6,8 @@ author: 'Holger Eilhard'
 layout: post
 guid: 'https://holgr.com/?p=5735'
 permalink: /blog/links-for-reasons/
+categories:
+    - Blog
 ---
 
 It's been quite some time, but I thought it'd be nice to add some info here with other places where you can find me. Especially since you're now – on some sites – [no longer allowed](https://help.twitter.com/en/rules-and-policies/social-platforms-policy) to link to your other accounts. It's really only a handful:

@@ -6,6 +6,11 @@ author: 'Holger Eilhard'
 layout: post
 guid: 'https://holgr.com/?p=5473'
 permalink: /blog/apple-watch-after-five-years/
+categories:
+    - Blog
+tags:
+    - Apple Watch
+    - watchOS
 ---
 
 Five years ago – on April 24, 2015 – Apple released its first smartwatch: Apple Watch. After presenting it in September 2014, during the reveal of iPhone 6, Apple started taking pre-orders on April 10, 2015; two weeks ahead of shipping them. Due to international travel, jetlag and, well, sleep on that very day I wasn't able to get an early model back then and had to wait a couple of weeks until I finally got my hands on mine.
