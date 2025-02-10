@@ -19,12 +19,15 @@ I've [adjusted the Python script](https://gist.github.com/holgr/59f8df7f81aa2b74
 <!--more-->
 
 This is what the output looks like:
-```> python3.11 find_focus_stealer.py
+
+```
+> python3.11 find_focus_stealer.py
 2024-03-08 17:20:34: iTerm2 [/Applications/iTerm.app]
 2024-03-08 17:20:37: Safari [/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app]
 2024-03-08 17:25:17: CoreServicesUIAgent [/System/Library/CoreServices/CoreServicesUIAgent.app]
 2024-03-08 17:25:51: Safari [/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app]
-2024-03-08 17:25:52: iTerm2 [/Applications/iTerm.app]```
+2024-03-08 17:25:52: iTerm2 [/Applications/iTerm.app]
+```
 
 So it looks like Apple's own `CoreServicesUIAgent` is the problem. Who's going to file the Radar that will immediately be ignored by the time it's submitted?
 
