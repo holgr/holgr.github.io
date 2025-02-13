@@ -22,7 +22,7 @@ title: holgr.com
 email: holger@eilhard.net
 description: >- # this means to ignore newlines until "tagline:"
   This is my site. Welcome. There should be some clever text here. But I don't know yet what it should say. Maybe later.
-tagline: "holgr.com"
+tagline: "Hello World!"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://holgr.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
