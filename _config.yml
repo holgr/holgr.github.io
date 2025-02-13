@@ -31,6 +31,7 @@ show_excerpts: true
 excerpt_separator: "<!--more-->"
 
 minima:
+  skin: auto
   social_links:
     - platform: mastodon
       user_url: "https://mastodon.social/@holgr"
